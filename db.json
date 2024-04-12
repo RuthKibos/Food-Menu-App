@@ -1,0 +1,81 @@
+{
+    "menu": [
+      {
+        "id": 1,
+        "name": "Beef Soup Served With Corriander",
+        "price": 40,
+        "rating": 4,
+        "category": "Featured"
+      },
+      {
+        "id": 2,
+        "name": "Bread With Scrambled Eggs",
+        "price": 30,
+        "rating": 4,
+        "category": "Today's Special"
+      },
+      {
+        "id": 3,
+        "name": "Fries",
+        "price": 25,
+        "rating": 4,
+        "category": "New Arrivals"
+      },
+      {
+        "id": 4,
+        "name": "Fried Chicken",
+        "price": 39,
+        "rating": 4,
+        "category": "Featured"
+      },
+      {
+        "id": 5,
+        "name": "Breakfast Hotdog",
+        "price": 10,
+        "rating": 4,
+        "category": "Today's Special"
+      },
+      {
+        "id": 6,
+        "name": "Delicious Cake",
+        "price": 50,
+        "rating": 4,
+        "category": "New Arrivals"
+      },
+      {
+        "id": 7,
+        "name": "Fries with Cheese",
+        "price": 25,
+        "rating": 4,
+        "category": "Featured"
+      },
+      {
+        "id": 8,
+        "name": "Pasta",
+        "price": 29,
+        "rating": 4,
+        "category": "Today's Special"
+      },
+      {
+        "id": 9,
+        "name": "Pork Served With Potatoes",
+        "price": 35,
+        "rating": 4,
+        "category": "New Arrivals"
+      },
+      {
+        "id": 10,
+        "name": "Steak With Carrots",
+        "price": 17,
+        "rating": 4,
+        "category": "Featured"
+      },
+      {
+        "id": 11,
+        "name": "Fried Rice",
+        "price": 11,
+        "rating": 4,
+        "category": "Today's Special"
+      }
+    ]
+  }
