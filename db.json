@@ -1,73 +1,93 @@
 {
-  "menu": {
-    "featured": [
-      {
-        "id": 1,
-        "name": "Beef Soup Served With Corriander",
-        "price": 40.00,
-        "category": "featured",
-        "image": "Gallery/Beef Soup with Corriander Leaves.jpg",
-        "rating": 4
-      },
-      {
-        "id": 2,
-        "name": "Fried Chicken",
-        "price": 39.00,
-        "category": "featured",
-        "image": "Gallery/Fried Chicken.jpg",
-        "rating": 4
-      },
-      {
-        "id": 3,
-        "name": "Fries with Cheese",
-        "price": 25.00,
-        "category": "featured",
-        "image": "Gallery/Fries with Cheese.jpg",
-        "rating": 4
-      },
-      {
-        "id": 4,
-        "name": "Steak With Carrots",
-        "price": 17.00,
-        "category": "featured",
-        "image": "Gallery/Steak with Carrots.jpg",
-        "rating": 4
-      }
-    ],
-    "today_specials": [
-      {
-        "id": 5,
-        "name": "Bread With Scrambled Eggs",
-        "price": 30.00,
-        "category": "today_specials",
-        "image": "Gallery/Bread with Scrambled Eggs.jpg",
-        "rating": 4
-      },
-      {
-        "id": 6,
-        "name": "Breakfast Hotdog",
-        "price": 10.00,
-        "category": "today_specials",
-        "image": "Gallery/Hotdog.jpg",
-        "rating": 4
-      },
-      {
-        "id": 7,
-        "name": "Pasta",
-        "price": 29.00,
-        "category": "today_specials",
-        "image": "Gallery/Pasta.jpg",
-        "rating": 4
-      },
-      {
-        "id": 8,
-        "name": "Sweet Pancakes",
-        "price": 11.00,
-        "category": "today_specials",
-        "image": "Gallery/Sweet Pancakes.jpg",
-        "rating": 4
-      }
-    ]
-  },
+  "food": [
+    {
+      "id": 1,
+      "name": "Beef Soup Served With Coriander",
+      "image": "Gallery/Beef Soup with Corriander Leaves.jpg",
+      "price": 40.00,
+      "rating": 4,
+      "category": "Featured"
+    },
+    {
+      "id": 2,
+      "name": "Bread With Scrambled Eggs",
+      "image": "Gallery/Bread with Scrambled Eggs.jpg",
+      "price": 30.00,
+      "rating": 4,
+      "category": "Today's Special"
+    },
+    {
+      "id": 3,
+      "name": "Fries",
+      "image": "Gallery/Delicios Fries.jpg",
+      "price": 25.00,
+      "rating": 4,
+      "category": "New Arrivals"
+    },
+    {
+      "id": 4,
+      "name": "Fried Chicken",
+      "image": "Gallery/Fried Chicken.jpg",
+      "price": 39.00,
+      "rating": 4,
+      "category": "Featured"
+    },
+    {
+      "id": 5,
+      "name": "Breakfast Hotdog",
+      "image": "Gallery/Hotdog.jpg",
+      "price": 10.00,
+      "rating": 4,
+      "category": "Today's Special"
+    },
+    {
+      "id": 6,
+      "name": "Delicious Cake",
+      "image": "Gallery/Forest Cake.jpg",
+      "price": 50.00,
+      "rating": 4,
+      "category": "New Arrivals"
+    },
+    {
+      "id": 7,
+      "name": "Fries with Cheese",
+      "image": "Gallery/Fries with Cheese.jpg",
+      "price": 25.00,
+      "rating": 4,
+      "category": "Featured"
+    },
+    {
+      "id": 8,
+      "name": "Pasta",
+      "image": "Gallery/Pasta.jpg",
+      "price": 29.00,
+      "rating": 4,
+      "category": "Today's Special"
+    },
+    {
+      "id": 9,
+      "name": "Pork Served With Potatoes",
+      "image": "Gallery/Pork and potatoes.jpg",
+      "price": 35.00,
+      "rating": 4,
+      "category": "New Arrivals"
+    },
+    {
+      "id": 10,
+      "name": "Steak With Carrots",
+      "image": "Gallery/Steak with Carrots.jpg",
+      "price": 17.00,
+      "rating": 4,
+      "category": "Featured"
+    },
+    {
+      "id": 11,
+      "name": "Sweet Pancakes",
+      "image": "Gallery/Sweet Pancakes.jpg",
+      "price": 11.00,
+      "rating": 4,
+      "category": "Today's Special"
+    }
+  ],
   "reviews": []
 }
