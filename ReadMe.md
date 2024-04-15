@@ -6,9 +6,18 @@ This is Food Menu App Built With HTML, CSS, and JavaScript where users can view 
 * Access to the internet
 
 **LIVE SITE**
+
 * Click the link below to view the site
 
 **TECHNOLOGIES USED**
 * HTML
 * CSS
 * JS
+
+** SETUP INSTRUCTIONS**
+* The user can navigate the web app and should be able to:
+    * See available food categories
+    * Select food category and get a list of options
+    * Rate the dish
+    * Leave Review Comments
+
